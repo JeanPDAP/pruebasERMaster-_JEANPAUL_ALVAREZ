@@ -11,6 +11,24 @@ import java.util.Set;
  * @version $Id$
  */
 public class Alumno implements Serializable {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		System.out.println("Bienvenido");
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
 
 	/** serialVersionUID. */
 	private static final long serialVersionUID = 1L;
@@ -33,6 +51,8 @@ public class Alumno implements Serializable {
 	/**
 	 * Constructor.
 	 */
+	
+	
 	public Alumno() {
 		this.notasSet = new HashSet<Notas>();
 	}
